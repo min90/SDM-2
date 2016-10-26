@@ -21,3 +21,7 @@ to access extensions graphically go to:
 <http://localhost:8888/nbextensions/>
 
 
+## project report
+to access the latex project go to:
+https://www.overleaf.com/6756006bgqnms#/22980387/
+
