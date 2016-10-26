@@ -15,3 +15,4 @@ https://github.com/ipython-contrib/jupyter_contrib_nbextensions
 
 to access extensions graphically go to:  
 http://localhost:8888/nbextensions/
+
