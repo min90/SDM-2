@@ -9,5 +9,5 @@ go to git folder.
 init nbstripout:    
 nbstripout --install
 
-for jupyter notebook extensions go to:
+for jupyter notebook extensions go to:  
 https://github.com/ipython-contrib/jupyter_contrib_nbextensions
